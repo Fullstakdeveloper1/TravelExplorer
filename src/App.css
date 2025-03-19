@@ -5,7 +5,13 @@ body {
   background-color: #f9f9f9;
   color: #333;
 }
-
+.main-title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 72px;
+  color: grey;
+}
 .container {
   width: 90%;
   max-width: 1250px;
