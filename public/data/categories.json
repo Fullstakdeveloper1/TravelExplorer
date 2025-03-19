@@ -1,0 +1,25 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Orol sayohatlari",
+        "description": "Hashamatli dam olish va tropik tabiat."
+      },
+      {
+        "id": 2,
+        "name": "Tabiatga sayohat",
+        "description": "Yovvoyi tabiat va tog'lar bo'ylab sayohat."
+      },
+      {
+        "id": 3,
+        "name": "Tarixiy joylar",
+        "description": "Madaniy yodgorliklar va qadimiy shaharlar."
+      },
+      {
+        "id": 4,
+        "name": "Ekstremal sayohatlar",
+        "description": "Qorli tog'larda, sahrolarda va daryolarda sarguzasht."
+      }
+    ]
+  }
+  

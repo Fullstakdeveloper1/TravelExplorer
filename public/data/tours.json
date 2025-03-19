@@ -1,0 +1,106 @@
+{
+  "tours": [
+    {
+      "id": 1,
+      "name": "Maldiv orollari",
+      "description": "Maldiv orollarida dam olish, hashamatli kurortlar va ajoyib plyajlar bilan tanishing.",
+      "price": 2500,
+      "background_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTa-QS_8c8SsAyAFbEW7B_Gar7Wn2XL1-gYyggRs",
+
+      "place": "Maldiv",
+      "category_id": 1,
+      "duration": "7 kun",
+      "available_dates": ["2024-07-15", "2024-08-10", "2024-09-05"],
+      "pack_includes": [
+        "Aviabilet",
+        "Mehmonxona",
+        "Nonushta",
+        "Ekskursiyalar",
+        "Spa xizmati"
+      ],
+      "max_people": 10,
+      "rating": 4.9
+    },
+    {
+      "id": 2,
+      "name": "Shveysariya Alp tog‘lari",
+      "description": "Shveysariya Alp tog‘larida dam olish va chang‘i sportidan zavq olish.",
+      "price": 3000,
+      "background_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTa-QS_8c8SsAyAFbEW7B_Gar7Wn2XL1-gYyggRs",
+
+      "place": "Shveysariya",
+      "category_id": 4,
+      "duration": "10 kun",
+      "available_dates": ["2024-12-20", "2025-01-05"],
+      "pack_includes": [
+        "Aviabilet",
+        "Mehmonxona",
+        "Nonushta",
+        "Chang‘i asbob-uskunalari",
+        "Ekskursiyalar"
+      ],
+      "max_people": 12,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Dubay sayohati",
+      "description": "Dubayning zamonaviy arxitekturasi va hashamatli hayot tarzi bilan tanishing.",
+      "background_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTa-QS_8c8SsAyAFbEW7B_Gar7Wn2XL1-gYyggRs",
+
+      "price": 2800,
+      "place": "Birlashgan Arab Amirliklari",
+      "category_id": 3,
+      "duration": "6 kun",
+      "available_dates": ["2024-06-10", "2024-09-15", "2024-11-25"],
+      "pack_includes": [
+        "Aviabilet",
+        "Mehmonxona",
+        "Gastronomik tur",
+        "Cho‘l safari",
+        "Shopping festivali"
+      ],
+      "max_people": 15,
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "Bali orollari",
+      "description": "Indoneziyaning Bali orollarida tabiiy go‘zallik va tinch dam olish.",
+      "price": 2300,
+      "background_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTa-QS_8c8SsAyAFbEW7B_Gar7Wn2XL1-gYyggRs",
+
+      "place": "Indoneziya",
+      "category_id": 1,
+      "duration": "8 kun",
+      "available_dates": ["2024-05-05", "2024-07-20", "2024-09-10"],
+      "pack_includes": [
+        "Aviabilet",
+        "Mehmonxona",
+        "Surfing kurslari",
+        "Mahalliy taomlar festivali"
+      ],
+      "max_people": 18,
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "name": "Parij romantik sayohati",
+      "description": "Parijda Eyfel minorasi, Luvr muzeyi va romantik sayohat zavqini his eting.",
+      "price": 3200,
+      "background_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTa-QS_8c8SsAyAFbEW7B_Gar7Wn2XL1-gYyggRs",
+      "place": "Fransiya",
+      "category_id": 3,
+      "duration": "5 kun",
+      "available_dates": ["2024-06-01", "2024-08-15", "2024-10-30"],
+      "pack_includes": [
+        "Aviabilet",
+        "Mehmonxona",
+        "Romantik kechki ovqat",
+        "Muzeylar ekskursiyasi"
+      ],
+      "max_people": 14,
+      "rating": 4.9
+    }
+  ]
+}

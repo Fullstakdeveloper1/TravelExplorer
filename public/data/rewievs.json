@@ -1,0 +1,45 @@
+{
+    "reviews": [
+      {
+        "id": 1,
+        "tour_id": 1,
+        "user_id": 2,
+        "rating": 5,
+        "comment": "Bu sayohat hayotimdagi eng yaxshi tajriba bo‘ldi! Orol juda go‘zal!",
+        "date": "2024-06-01"
+      },
+      {
+        "id": 2,
+        "tour_id": 2,
+        "user_id": 3,
+        "rating": 4.5,
+        "comment": "Bali oroli chindan ham ajoyib! Ammo transport masalasi biroz noqulay bo‘ldi.",
+        "date": "2024-06-15"
+      },
+      {
+        "id": 3,
+        "tour_id": 3,
+        "user_id": 2,
+        "rating": 4.8,
+        "comment": "Italiyaga sayohat qilish men uchun orzu edi! Ovqatlari ham juda mazali!",
+        "date": "2024-07-05"
+      },
+      {
+        "id": 4,
+        "tour_id": 1,
+        "user_id": 5,
+        "rating": 4.2,
+        "comment": "Sayohat yaxshi bo‘ldi, lekin mehmonxona xizmatlari biroz sust edi.",
+        "date": "2024-07-10"
+      },
+      {
+        "id": 5,
+        "tour_id": 2,
+        "user_id": 4,
+        "rating": 3.9,
+        "comment": "Tabiat juda chiroyli, lekin sayohat dasturi yaxshi tashkil etilmagan edi.",
+        "date": "2024-08-02"
+      }
+    ]
+  }
+  
